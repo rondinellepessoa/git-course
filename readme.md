@@ -11,5 +11,3 @@ mais 2 linhas no arquivo
 Gostou do curso?
 
 Alterando o arquivo para novo commit no Github
-
-Incluindo mais uma linha
